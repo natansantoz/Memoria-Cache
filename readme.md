@@ -16,6 +16,12 @@ O sistema implementa uma cache de 8 linhas com política de escrita direta _writ
 
 Os subcircuitos criados foram omitidos visando tornar o readme conciso.
 
+<p align="center">
+  <a href="https://github.com/natansantoz/cache-direta/blob/main/arquivos/Relat%C3%B3rio%20de%20Desenvolvimento%20-%20ACII%20Trabalho%20I%20-%20Breno%20Vamb%C3%A1ster%20-%20Gustavo%20Henrique%20-%20Nat%C3%A3%20Teixeira.pdf">
+    Relatório de Desenvolvimento
+  </a>
+</p>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#table-of-contents)
 
 
